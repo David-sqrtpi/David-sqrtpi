@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning javascript
+
 <!--
 **David-sqrtpi/David-sqrtpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
