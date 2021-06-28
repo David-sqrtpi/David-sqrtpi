@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning javascript
-
+- 🌱 I’m currently learning Docker and Azure
 <!--
 **David-sqrtpi/David-sqrtpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
